@@ -1,0 +1,6 @@
+{
+  "name": "SkillLens",
+  "description": "AI-powered career skill-gap analyzer and learning roadmap generator for students and internship seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
